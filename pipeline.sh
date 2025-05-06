@@ -1,4 +1,4 @@
-#!/bin/bash
+# !/bin/bash
 
 # Запуск создания данных
 python data_creation.py
